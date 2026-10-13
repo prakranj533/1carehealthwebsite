@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "1carehealth",
     "public": "dist",
     "ignore": [
       "firebase.json",

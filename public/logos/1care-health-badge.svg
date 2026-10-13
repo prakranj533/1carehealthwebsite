@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">1Care Health</title>
+  <rect width="1024" height="1024" fill="#fff"/>
+  <circle cx="512" cy="512" r="506" fill="none" stroke="#263f70" stroke-width="9"/>
+  <path fill="#f49a1e" d="M246 364h58c-4 49-40 82-100 101v-58c25-5 39-20 42-43z"/>
+  <path fill="#f49a1e" d="M246 433c21-7 39-15 58-24v217h-58z"/>
+  <text x="344" y="507" fill="#33475b" font-family="Arial, sans-serif" font-size="198" font-weight="400" letter-spacing="4">CARE</text>
+  <path fill="#57c1c7" d="M346 536h526v89H346z"/>
+  <text x="415" y="604" fill="#33475b" font-family="Arial, sans-serif" font-size="52" font-weight="400" letter-spacing="25">HEALTH</text>
+</svg>

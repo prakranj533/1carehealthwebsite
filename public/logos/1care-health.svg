@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 80" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710 300" role="img" aria-labelledby="title">
   <title id="title">1Care Health</title>
-  <path fill="#f49a1e" d="M20 19 42 8v54H25V31l-9 5v-14z"/>
-  <path fill="#f49a1e" d="M13 19h23l-7 10H8z"/>
-  <text x="54" y="45" fill="#33475b" font-family="Arial, sans-serif" font-size="37" font-weight="400" letter-spacing="2">CARE</text>
-  <path fill="#57c1c7" d="M54 52h143v17H54z"/>
-  <text x="69" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="7">HEALTH</text>
+  <path fill="#f49a1e" d="M56 14h58c-4 49-40 82-100 101V57c25-5 39-20 42-43z"/>
+  <path fill="#f49a1e" d="M56 83c21-7 39-15 58-24v217H56z"/>
+  <text x="154" y="157" fill="#33475b" font-family="Arial, sans-serif" font-size="198" font-weight="400" letter-spacing="4">CARE</text>
+  <path fill="#57c1c7" d="M156 186h526v89H156z"/>
+  <text x="225" y="254" fill="#33475b" font-family="Arial, sans-serif" font-size="52" font-weight="400" letter-spacing="25">HEALTH</text>
 </svg>
